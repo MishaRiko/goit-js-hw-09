@@ -1,5 +1,3 @@
-console.log(Form);
-
 const formData = {
   email: '',
   message: '',
